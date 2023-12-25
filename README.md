@@ -5,4 +5,4 @@ Every time they guess a wrong letter, part of a picture of a person being hanged
 
 ## Website URL
 
-Visit the website: [Book Store](https://shahd-bilal0.github.io/HangmanGame/)
+Visit the website: [HangmanGame](https://shahd-bilal0.github.io/HangmanGame/)
